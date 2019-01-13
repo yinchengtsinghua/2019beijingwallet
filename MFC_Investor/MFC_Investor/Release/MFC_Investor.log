@@ -1,0 +1,48 @@
+﻿  Processing .\MFCInvestor.idl
+  MFCInvestor.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\oaidl.acf
+  oaidl.acf
+  stdafx.cpp
+  calendarbar.cpp
+  CClient.cpp
+  CDialogdispute.cpp
+  CDialogEAA.cpp
+  CDialogInput.cpp
+  CDialogOutput.cpp
+  CDialogPassword.cpp
+  CDialogpasswordTools.cpp
+  CDialogPeople.cpp
+  CDialogPrivateKey.cpp
+  CDialogProjects.cpp
+  CDialogShareholders.cpp
+  CDialogViewAllMoney.cpp
+  CDialogViewCost.cpp
+  CDialog_chat.cpp
+  CDialog_projects.cpp
+  ChildFrm.cpp
+  CntrItem.cpp
+  IpFrame.cpp
+  MainFrm.cpp
+  正在编译...
+  MFC_Investor.cpp
+  MFC_InvestorDoc.cpp
+  MFC_InvestorView.cpp
+  SrvrItem.cpp
+  正在生成代码
+  All 970 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MFC_Investor.vcxproj -> E:\区块链项目\比赛获奖项目\私钥碎片钱包\gitium\MFC_Investor\Release\MFC_Investor.exe

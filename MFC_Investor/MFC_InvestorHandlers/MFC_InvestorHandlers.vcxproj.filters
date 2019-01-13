@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="生成的文件">
+      <UniqueIdentifier>{1db05a60-69b7-4692-8c09-6ff2fea949d7}</UniqueIdentifier>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFC_InvestorHandlers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xdlldata.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCInvestorHandlers_i.c">
+      <Filter>生成的文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\MFC_Investor\MFC_InvestorDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\MFC_Investor\MFC_InvestorView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\MFC_Investor\CntrItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\MFC_Investor\SrvrItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dllmain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="xdlldata.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCInvestorHandlers_i.h">
+      <Filter>生成的文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PreviewHandler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThumbnailHandler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FilterHandler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MFC_Investor\MFC_InvestorDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MFC_Investor\MFC_InvestorView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MFC_Investor\CntrItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MFC_Investor\SrvrItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFC_InvestorHandlers.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MFCInvestorHandlers.rgs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="MFC_InvestorHandlers.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="PreviewHandler.rgs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ThumbnailHandler.rgs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="FilterHandler.rgs">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Midl Include="MFCInvestorHandlers.idl">
+      <Filter>源文件</Filter>
+    </Midl>
+  </ItemGroup>
+</Project>

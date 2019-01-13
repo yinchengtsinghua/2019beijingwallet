@@ -1,0 +1,57 @@
+﻿  Processing .\MFCInvestorHandlers.idl
+  MFCInvestorHandlers.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\ocidl.idl
+  ocidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\oleidl.idl
+  oleidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\servprov.idl
+  servprov.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\urlmon.idl
+  urlmon.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\msxml.idl
+  msxml.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\shobjidl.idl
+  shobjidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\docobj.idl
+  docobj.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\shtypes.idl
+  shtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\comcat.idl
+  comcat.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\propidl.idl
+  propidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\prsht.idl
+  prsht.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\propsys.idl
+  propsys.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\StructuredQueryCondition.idl
+  StructuredQueryCondition.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\ObjectArray.idl
+  ObjectArray.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\shobjidl_core.idl
+  shobjidl_core.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\thumbcache.idl
+  thumbcache.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\filter.idl
+  filter.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\oaidl.acf
+  oaidl.acf
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\ocidl.acf
+  ocidl.acf
+.\MFCInvestorHandlers.idl(16): error MIDL2011: unresolved type declaration : IUNKNown [ Interface 'IPreview'  ]
+.\MFCInvestorHandlers.idl(25): error MIDL2011: unresolved type declaration : IUTRXown [ Interface 'IThumbnail'  ]
+.\MFCInvestorHandlers.idl(34): error MIDL2011: unresolved type declaration : IUNKNown [ Interface 'ISearch'  ]
